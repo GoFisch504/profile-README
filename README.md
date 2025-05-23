@@ -10,3 +10,8 @@
 GoFisch504/GoFisch504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+| Rank | Hobbies |
+|-----:|---------------|
+|     1|  Baldue's Gate             |
+|     2|  My Smeelly Dog             |
+|     3|               |
